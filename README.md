@@ -1,1 +1,2 @@
 # Digital-Marketing-Campaign-Conversion-Prediction
+"Developed a machine learning model to predict customer conversions in digital marketing campaigns. Focused on data exploration, feature engineering, and performance evaluation to enhance targeting and improve conversion rates. Implemented models such as Decision Trees, Gradient Boosting, and XGBoost, achieving high accuracy. The project aimed to optimize campaign strategies and maximize return on advertising spend (ROAS) using demographic and engagement data."
